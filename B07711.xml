@@ -1,0 +1,278 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An alarme to all Christian princes and states of the religion. Written immediatly vpon the first newes of the death of the King of Sweden of famous memory, and euer will be to all posterity, and to eternity..</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1632</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 30 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B07711</idno>
+            <idno type="OCLC"> 166384446</idno>
+            <idno type="STC">STC 12531.7</idno>
+            <idno type="STC">ESTC S92792</idno>
+            <idno type="EEBO-CITATION">166384446</idno>
+            <idno type="OCLC">ocn 166384446</idno>
+            <idno type="VID">191563</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B07711)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 191563)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2273:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An alarme to all Christian princes and states of the religion. Written immediatly vpon the first newes of the death of the King of Sweden of famous memory, and euer will be to all posterity, and to eternity..</title>
+                  <author>Gustaf II Adolf, King of Sweden, 1594-1632.</author>
+               </titleStmt>
+               <extent>[13] p.   </extent>
+               <publicationStmt>
+                  <publisher>Successors of G. Thorp?,</publisher>
+                  <pubPlace>[Amsterdam? :</pubPlace>
+                  <date>1632]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Attributed to Adolf Gustaf II.  Cf. STC (2nd ed.).</note>
+                  <note>Imprint of publication suggested by STC (2nd ed.).</note>
+                  <note>Printed marginalia, printer's ornament at colophon.</note>
+                  <note>Signatures: A⁶ B².</note>
+                  <note>Reproduction of original in: Boston Public Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sweden --  History --  1523-1654 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="preface">
+            <pb facs="tcp:191563:1" rendition="simple:additions"/>
+            <pb facs="tcp:191563:1" rendition="simple:additions"/>
+            <head>AN ALARME To all Chriſtian Princes and States of the Religion.</head>
+            <head type="sub">WRITTEN Immediatly vpon the firſt newes of the death<note n="*" place="margin">1632.</note> of the King of Sweden of famous me<g ref="char:EOLhyphen"/>mory, and euer will be to all poſte<g ref="char:EOLhyphen"/>rity, and to eternity.</head>
+            <p>Which I haue concealed till now, hauing a great reluctation within my ſelf, and doubtfull whether to publiſh it at all or <hi>no.</hi>
+               <note place="margin">
+                  <hi>Mich.</hi> 2.3 <hi>Amos.</hi> 5.13. <hi>Luk.</hi> 22.53.
+<hi>Eph.</hi> 6.12</note> 
+               <hi>No</hi> anſwereth the echo, <hi>for this time is euill: It is an euill time</hi> anſwereth the Prophet. <hi>The very power of darkenes: this is your houre, &amp; the power of darkenes,</hi> anſwereth the Lord Ieſus, <hi>for we wreſtle not,</hi> our reluctation is not,
+<hi>againſt fleſh and blood, but againſt principalities, againſt powers &amp;c:</hi> anſwereth the Apoſtle. The whole legion of deuils, for they are many: <hi>We are many,</hi> anſwereth the deuill himſelf, with a hollow echo from hell. But too many for one poore worme,<note place="margin">
+                  <hi>Mark.</hi> 5.9</note> ſuch a one as I am, <hi>a worme and no man,</hi> to wreſtle withall: the Lord Ieſus help me. Yet conſidering whom I ſerue, euen this Lord Ieſus: and what an other Apoſtle anſwereth: <hi>He that knoweth to doe good and doth it not, to him it is ſin.</hi>
+               <note place="margin">
+                  <hi>Iam.</hi> 3.17 <hi>Matt.</hi> 25.25</note> And conceiuing it a part of my <hi>talent</hi> committed to me of Gods grace,
+<hi>not to be concealed, not to be hid,</hi> whereof one day I muſt giue account: and for no other reaſon: written I ſay immediatlie after the ſorowfull <pb facs="tcp:191563:2" rendition="simple:additions"/> 
+               <pb facs="tcp:191563:2" rendition="simple:additions"/> 
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:191563:3"/>newes came of the death of that renowmed King: and directed (and I hope in God it is alſo from him, and ſo will be taken, and not of any preſumption at all from me) to all thoſe Princes and States, now vpon ſo great conſultations and treaties, wherevpon dependeth the whole State of Gods Church: all the reformed Churches of Chriſtendome, now in quaeſtion vpon the death of that famous King whether to ſtand or fall, high time therefore for all <hi>either now to ſpeake, or for euer hereafter to hold their peace.</hi> Wherein I make no doubt but <hi>Sathan</hi> will alſo act his part to the vtmoſt, (this his laſt part) by his Embaſſadors, and ſecret Agents from all parts,<note place="margin">
+                  <hi>Zech.</hi> 3.1.</note>
+               <hi>and ſtand at the right hand of our high Prieſt Joſhua to reſiſt him:</hi> that he and his Kingdome may ſtand, and our high Prieſt
+<hi>Ioſhua</hi> (that is <hi>Jeſus</hi>) &amp; his Kingdome fall: I haue therfore aduentured in the name of this <hi>Ieſus: (Jeſus, Jeſus, Jeſus:</hi> which were the laſt words that great King vttered immediatly before he gaue battell: <hi>help me to fight this day to the honour of thy name. If I die I die) Let vs goe and die with him.</hi>
+               <note place="margin">
+                  <hi>Eſthe.</hi> 4.16. <hi>Iohn</hi> 11.16.</note> Why liue we after him? who died not for himſelf but for vs, and for others, (as did
+<hi>Ieſus,</hi>) and for the name of the Lord <hi>Ieſus.</hi> I ſay in the name of this <hi>Jeſus,</hi> our <hi>Joſhua,</hi> who died both for him, and for vs all, (all humane reſpects, either of feare or fauour, ſet apart) I haue adven<g ref="char:EOLhyphen"/>tured to publiſh it. <hi>My name ſhrowded vnder his name Ieſus: &amp; who dare ſpeak againſt it this name Jeſus?</hi> Hoping this <hi>Sathan</hi> who now <hi>thinketh he ſtandeth,</hi> and preſumteouſly taketh place <hi>at the right hand</hi> of our
+<hi>Ioſhua</hi> (this <hi>Jeſus</hi>) ſhall fall ſhorthlie, and finally, <hi>the God of peace ſhall tread downe Sathan vnder your feet ſhortly,</hi>
+               <note place="margin">
+                  <hi>Rom.</hi> 16.20. <hi>Luk.</hi>
+10.18</note> as in that his diuine viſion: <hi>I ſaw Sa<g ref="char:EOLhyphen"/>than fall downe lyke lightening from heauen,</hi> Amen, Amen, and let the whole Church of Chriſt applaud herevnto, and ſay, Amen and Amen.</p>
+            <div type="citations">
+               <head>IHS, IHS, IHS.</head>
+               <q>
+                  <p>
+                     <hi>Helpt me to fight this day to the honour of thy name,</hi> againſt this <hi>Sathan:</hi> this <hi>Legioen of Deuils:</hi> for we wreſtle not againſt fleſh and blood, but againſt principallities, againſt powers, &amp; againſt the worldly gouernours the Princes of the darknes of this world, againſt Spirituall wickedneſſes which are in the high places,</p>
+                  <bibl>Epheſ. 6.12.</bibl>
+               </q>
+            </div>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:191563:3"/>
+            <head>AN ALARME (Vpon the death of the King of SWEDEN) to all Chriſtian Princes, and States of the Religion, to ioyne together in a firme, and inviolable league in defence thereof againſt the common enemie.</head>
+            <p>SEEING it hath pleaſed God for our ſins to take from vs that renowmed, &amp; moſt victorious Prince the King of <hi>Sweden,</hi>
+               <note place="margin">
+                  <hi>Iudges.</hi> 16 28.</note> victorious euen in his death (as was <hi>Samſon</hi>) the moſt coura<g ref="char:EOLhyphen"/>gious champion, heathen, or Chriſtian, that euer God raiſed vp, or can be read of in any Hiſtorie, to haue acted ſo much in ſo ſhort a time: his ſmall beginnings, and great oppoſitions conſidered. An other <hi>Caeſar, veni, vidi, vici,</hi> A Sauiour, and deliuerer of Gods Church, <hi>of whom the world was not worthie,</hi> for our ſins (I ſay) taken from vs: for the which we ought to lament (lament anſwereth a wofull echo, and thereby our great loſſe: An other <hi>Judas Machabeus: how is the valiant man fallen that de<g ref="char:EOLhyphen"/>liuered Iſrael!</hi>) but not to lament for him,<note place="margin">1 <hi>Mac.</hi>
+9.21.</note> who now triumpheth moſt gloriouſly in heauen, with all the Holy Angels and Saints (as he did on earth) ouer all his enemies. It were a ſhame, and diſhonour to God, and his annointed that is with God, and a deriſion to the enemies of God (who now reioyce, and inſult ouer his dead bones, whom liuing they durſt not once looke in the face) to ſuffer theſe ſo glorious, and bleſſed beginnings (<hi>and bleſſed ſhall they be</hi>) to fall to the ground. Thoſe great deſignes, both againſt the
+<hi>Antichriſtian,</hi> and <hi>Mahometan</hi> tyrannie: both which had he liued, in ſhort time, by all lyklihood, had been throwne to the ground. For the further managing whereof, &amp; finall acco<g ref="char:cmbAbbrStroke">̄</g>pliſhment, (in theſe leſt dayes to be accompliſhed, according to the Holy Prophe<g ref="char:EOLhyphen"/>cies) it is to be wiſhed, and daily prayed for, by the whole Church of Chriſt, that all thoſe chriſtian Princes and States, who profeſſe themſel<g ref="char:EOLhyphen"/>ues Defenders of the true Chriſtian faith, would ioyne together in a firme, and inviolable league, and vnion: <hi>an Euangelicall vnion,</hi> in the
+<pb facs="tcp:191563:4"/> 
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap> 
+               <pb facs="tcp:191563:4"/> 
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="4" facs="tcp:191563:5"/>name of Ieſus Chriſt and his Church, (all differences of opinion in mat<g ref="char:EOLhyphen"/>ter of Religion ſet apart, with thoſe bitter names of
+<hi>Luther,</hi> and <hi>Cal<g ref="char:EOLhyphen"/>uin</hi> &amp;c.) as <hi>Chriſtians,</hi>
+               <note place="margin">
+                  <hi>Act.</hi> 11.26.</note> 
+               <hi>for ſo were we firſt called</hi> in the primitiue Church <hi>at Antioch:</hi> an <hi>Euangelicall vnion</hi> (I ſay) in the name of Ieſus Chriſt and his Church, to defend the ſame, and his holy Euangill, or Goſpell, againſt all the profeſſed enemies thereof, both Antichriſtian, and Mahometan. They that will not, will not, anſweareth, the <hi>echo,</hi> ioyne together to pro<g ref="char:EOLhyphen"/>ſecute the will, and directions of that noble King, dead as well as liuing: yea rather now much more, who hath euen ſacrificed his lyfe in their de<g ref="char:EOLhyphen"/>fence, and the cauſe of Religion: they that will not: will not anſweareth the <hi>echo</hi> againe, ioyne together in this cauſe, and quarell, which is euen Gods cauſe, the Lord of hoaſts, whereof he himſelf is Generall, and Com<g ref="char:EOLhyphen"/>mander, let them be <hi>Anathema Maranatha:</hi> let the whole Church of Chriſt explode the<g ref="char:cmbAbbrStroke">̄</g> with this bitter curſe:<note place="margin">1 <hi>Cor.</hi> 16.23. <hi>Iud.</hi> 5.23</note> 
+               <hi>Curſe ye Meros, ſaid the Angell of the Lord, curſe ye bitter lie the inhabitants thereof, becauſe they came not to help the Lord, to help the Lord againſt the mightie.</hi> Whom the Lord alſo himſelf in the end wil curſe, explode, and euen ſpue out of his mouth: <hi>for they that are not with vs are againſt vs,</hi>
+               <note place="margin">
+                  <hi>Mat.</hi> 12.30.</note> &amp; ſo to be accounted of, euen as enemies. Let them declare themſelues, (as our Sauiour wiſheth) hot, or cold, for Religion, or againſt Religion: for the common libertie of their conſcience, and their country,<note place="margin">
+                  <hi>Reu.</hi> 3.15</note> or againſt it: <hi>I would thou wert cold, or hot,</hi> (ſaieth our Sauiour) <hi>but becauſe thou art lukewarme, and neither cold, nor hot, I will ſpue thee out of my mouth.</hi> And it is to be wiſhed, and prayed for lykewiſe by the whole Church of Chriſt (for that is all we can doe, to wiſh and pray, and that we all ought to doe) for we are all members of that his myſticall bodie, and euery one hath an intereſt in the weale or woe thereof, and may freely ſpend his voice. We are all <hi>Hypocra<g ref="char:EOLhyphen"/>tes twins,</hi> we muſt either, laugh together, or weepe together: wept we haue a long time. I ſay it is to be wiſhed, and prayed for lyke<g ref="char:EOLhyphen"/>wiſe that his Maieſtie of Great <hi>Britainne,</hi> who profeſſeth himſelfe <hi>Defender of the faith, catexochen</hi> aboue all other Kings and Princes, (and long may he liue to maintayne it) would now declare himſelf by ſummoning, or calling <hi>(quam timeo,</hi> how doe I feare to name it? I onely wiſh and pray for it) a <hi>Parliament:</hi> [O that the name of a <hi>Parliament</hi> ſhould now be ſo hainous, and odious, as no man dare once name it, ſcarce thinke of it: <hi>that high court of Parliament</hi> ſo named, ſo reverenced in times paſt, <hi>that great counſell of ſtate,</hi> &amp; of the whole Land, aſſembled
+<pb n="5" facs="tcp:191563:5"/>as one man to prouide for the good of the ſtate, and of the whole Church of God, and oppugne the enemies thereof: which counſell had his Ma<g ref="char:EOLhyphen"/>jeſtie and royall father been pleaſed to haue embraced and not <hi>the coun<g ref="char:EOLhyphen"/>ſell of thoſe wicked Rohoboami, pravis conſultoribus impulſi:</hi>
+               <hi>impulſi</hi> anſwea<g ref="char:EOLhyphen"/>reth the echo againe to diſſolue, and break it of from time to time, one <hi>parliament</hi> after an other: <hi>aliquam, quae nunc</hi>
+               <note n="†" place="margin">Buchanan in his Epiſt. ded. before his trag: Bapt: Nulla in compari<g ref="char:EOLhyphen"/>ſon of our former fa<g ref="char:EOLhyphen"/>mous and flouwriſhing eſtate &amp;c.</note> 
+               <hi>nulla eſt, rempublicam habe<g ref="char:EOLhyphen"/>remus:</hi> both Church and ſtate had ſtill flouriſhed, as in the dayes of <hi>Queene Eliſabeth</hi> of famous memorie: ſince vtterly decayed, <hi>the glorie gone from Iſrael,</hi> and nothing proſpered that we haue vndertaken: nor lyke to doe, till it pleaſe God to put into his Majeſties heart to call it againe, to bewiſhed I ſay and prayed for continually.] By calling a <hi>Parliament</hi> (I ſay) and cutting of the Popiſh, and Spaniſh faction: I may not name them neither, I dare not: I need not: their characters are written in ſuch great and capitall letters,
+<hi>as a man may read them running:</hi> as it is in the Prophet. That great
+<hi>Gordian knot, or threefold cord not eaſie to be broken,</hi> nor poſſible to be looſed, but cutt in peeces by <hi>him that beareth the ſword, and (I hope) not in vaine, our Great Alexander.</hi> The Popiſh,<note place="margin">
+                  <hi>Rom.</hi> 13.4.</note> and Spaniſh faction (I ſay) with their adherents, flatterers, and time ſeruers, their vaſ<g ref="char:EOLhyphen"/>ſals, and creatures, of all others moſt baſe and vnworthy: creatures of creatures, vaſſals of vaſſals, worthy alſo to be cutt off, as King <hi>Dauid</hi> denounceth:<note place="margin">
+                  <hi>Pſa.</hi>
+12.3</note> 
+               <hi>The Lord ſhall cut off all flattering lips &amp;c. noſtrì fundi cal<g ref="char:EOLhyphen"/>lamitas;</hi> the callamitie of this our once ſo famous, and flouriſhing a Kingdome, and of the whole Church of God, and the reformed Religion: which they haue endeavoured to ruine, if it were poſſible, by diverting his Majeſtie, and Royall father <hi>King Iames,</hi>
+               <note place="margin">Vt eos quos tutari debe<g ref="char:EOLhyphen"/>ant deſertos eſſe patian<g ref="char:EOLhyphen"/>tur.</note> from giuing that counte<g ref="char:EOLhyphen"/>nance &amp; aſſiſtance therevnto, which in all honour, in reſpect of that royall tytle and in their owne royall diſpoſition otherwiſe they both ought and would haue don. Bound therevnto by a more particular obligation to their owne fleſh, and blood, now lying a bleeding, both the one, and the other. Both the cauſe of Religion, her chieffe champion ſlaine, and that diſtreſſed, and comfortles Ladie the Queene of <hi>Bohemia,</hi> and her royall iſſue, like to ſuffer as ſhe hath don hitherto beyo<g ref="char:cmbAbbrStroke">̄</g>d all patie<g ref="char:cmbAbbrStroke">̄</g>ce: which yet in the end will ouercome all. Whereof (I ſay) the Popiſh, and Spa<g ref="char:EOLhyphen"/>niſh faction, which we nouriſh euen in our owne boſomes, are the cauſe, and in the end, lyke vipers, will eate out euen their owne mothers bo<g ref="char:EOLhyphen"/>wels, and vtterly ruine this our famous Kingdome, Church and ſtate, if they be not cut off. <hi>Now is the axe laied, to the roote of the trees.</hi>
+               <note place="margin">
+                  <hi>Mat.</hi> 3.10</note> 
+               <hi>Trees</hi> in the <pb n="6" facs="tcp:191563:6"/>plurall number: euen the high and mightie <hi>Cedars of Lebanon,</hi> Kings &amp; Caiſars, for <hi>with God there is no reſpect of perſons.</hi> No reſpect of perſons anſwereth the echo.<note place="margin">2 <hi>King.</hi> 20 1.</note> 
+               <hi>Set thyne houſe in order for thou ſhalt dye and not liue,</hi> ſaith the Lord by his Prophet to
+<hi>Hezekiah</hi> King of <hi>Iuda,</hi> and in him to our <hi>Hezekiah,</hi> a lyke gentlie warned of late, and to all other Kings, and Princes. God graunt they may all repent, mourne, and lament, as he did: that ſo, many yeeres may be added to their liues here in this world, and after, eternitie of glorie in the world to come. Gently war<g ref="char:EOLhyphen"/>ned (I ſay) by a lyke viſitation, immediatly after the newes came of the death of the two Kings, verie remarkable. A lyke viſitation (I ſaie) peſtilenciall,<note place="margin">The ſmall pocks, peſti<g ref="char:EOLhyphen"/>lentiall, and inclyning to the pla<g ref="char:EOLhyphen"/>gue, &amp; com<g ref="char:EOLhyphen"/>monly a forerunner.</note> and mortall too to many, coſen german to that great viſi<g ref="char:EOLhyphen"/>tation ſo called the plague: which was (as ſome hold) the deadly diſ<g ref="char:EOLhyphen"/>eaſe of <hi>Hezekiah, ſick vnto death,</hi> as it is in that place. A faire war<g ref="char:EOLhyphen"/>ning, if ſo taken, and not ſlighted as an ordinary, and caſuall viſitation, (as I feare we doe) but the circumſtances make it not caſuall, but extraor<g ref="char:EOLhyphen"/>dinary, and (as I ſaid before) verie remarkable. No occaſion at all of in<g ref="char:EOLhyphen"/>fection precedent, but immediatlie from the hand of God, and the verie finger of God therein. A gentle viſitation indeed, God giue vs grace to make vſe of it, before the <hi>deſtroying Angell</hi> come with his ſword drawne, and cut downe all before him. <hi>Now is the axe laid to the roote of the trees.</hi> Kings and Princes, they now ſee they are mortall, and <hi>ſhall die like men.</hi> Euen be ſick, wounded, ſlaine and die lyke other men:<note place="margin">The words vſed at the buriall of the dead, in the booke of common prayer.</note> and that they are but earth, duſt, and aſhes: <hi>earth to earth, aſhes to aſhes, duſt to duſt &amp;c.</hi> And therfore the Prophet cryeth vnto them: <hi>earth, earth, earth, heare the word of the Lord.</hi> Now therefore let vs leaue off our revelling, and daunſing, our maſkes, and playes, vnſeaſonable (eſpe<g ref="char:EOLhyphen"/>cially on the Lords day) <hi>when the Lord calleth to prayer and faſting, weeping and mourning.</hi> When (I ſaie) the <hi>Arke of God</hi> is in campe againſt the <hi>Philiſtims.</hi> For feare we doe not act the laſt part of the tragaedie alreadie begun,<note place="margin">1. <hi>Pet.</hi>
+4.17.</note> already begun anſwereth the echo: <hi>iudgement</hi> already
+<hi>begun at the houſe of God &amp;c. for our God is euen a conſuming fire.</hi> It is already kindled, &amp; the flame or it be long will ſurely break forth, if in the meane time we doe not quench it with the teares of repentance. We haue had diuers <hi>faire-warnings,</hi> and
+<hi>fore-warnings</hi> firſt and laſt, which haue wrought verie litle impreſsion in our ſenſeles, ſtony, and hard hearts. <hi>Two great pla<g ref="char:EOLhyphen"/>gues:</hi> one vpon the firſt comming of <hi>King James</hi> to the crowne: The other of <hi>King Charles:</hi> manie thouſands conſumed as in the dayes of <pb n="7" facs="tcp:191563:6"/>
+               <hi>King Dauid.</hi> God open our eyes, as he did his,<note place="margin">1. <hi>Chron.</hi> 21.16 2 <hi>Sam.</hi>
+24.17.</note> that we may ſee <hi>his deſtroying Angell ſtanding betweene the earth and the heauen with his drawne ſword in his hand &amp;c.</hi> and acknowledge our ſins, as he did: <hi>It is I that haue ſinned, don euill indeed, don wickedlie &amp;c. Two great falles:</hi> the one of <hi>King Iames</hi> into the riuer at <hi>Theobalds</hi> horſe &amp; all, where after he died: The other of <hi>King Charles</hi> then Prince in <hi>Enfielde chaſe</hi> not far off, taken vp ſenſeles, and carried into a houſe hard by, but came to himſelf againe God be praiſed. The ſame God preſerue him ſtill long to ſuruiue to his glory. <hi>Two great fires:</hi> the one at <hi>New merket</hi> halfe the towne almoſt conſumed where the Kings hunting houſe is: the other at <hi>Whitethall,</hi> the banqueting houſe burnt and conſumed. Beſides many other great fires elſwhere. And euen in <hi>London</hi> it ſelf the Kings Chamber. [Yea
+<hi>London bridge,</hi> one of the wonders of the world, a great part of the houſes built vpon it, verie latelie alſo burnt, and conſumed.] But all theſe faire-war<g ref="char:EOLhyphen"/>nings, and fire-warnings, fore-warnings, and fore-runners of further iudgements, forgotten, or ſlighted, as ordinary and caſuall, as the Iewes did all thoſe prodigious ſignes before <hi>the deſtruction of Jeruſalem,</hi> yea the <hi>Powder-plot,</hi> or <hi>Papiſts co<g ref="char:cmbAbbrStroke">̄</g>ſpiracy,</hi> as yet remayning in red characters in our almanaks, among our other holy daies celebrated yeerly: but what effect hath it wrought? The
+<hi>Papiſts,</hi> and <hi>Popiſh faction,</hi> euer ſince increaſſed, growne ſtronger, and ſtronger: <hi>euill men ſtill worſe and worſe,</hi>
+               <note place="margin">2. <hi>Tim.</hi> 3.13.</note> as the Apoſtle prophecieth of theſe laſt dayes, theſe laſt times: and in the end (as I ſaid before) will vtterly ruine both our Church and ſtate, if they be not cut of. I ſay if theſe faire-warnings one after an other, and gentle viſitations in great mercie ſent beforehand from God to moue vs to re<g ref="char:EOLhyphen"/>pentance, worke no effect, nor make vs ſenſible of his iudgements al<g ref="char:EOLhyphen"/>ready fallen vpon others, which our ſins haue lykewiſe deſerued, if not more: we may feare or it be long, to be made examples to others, as others now are to vs. And <hi>ſee with feare, and trembling,</hi>
+               <note place="margin">
+                  <hi>Dan.</hi> 55.</note> 
+               <hi>the finger of that hand writing vpon the wall: Mene, Mene, Tekel Vpharſin &amp;c.</hi> The ſen<g ref="char:EOLhyphen"/>tence is already gon forth, long ſince denounced to Hezekiah: <hi>Thou ſhalt die, &amp; not liue,</hi> and in him to all other Kings and Princes: <hi>I haue ſaid ye are Gods, but ye ſhall die lyke men and fall lyke one of the Princes.</hi>
+               <note place="margin">
+                  <hi>Pſal.</hi> 82.6</note> We ſee it executed before our eyes vpon others, vpon other Princes, and ſhall we thinke to eſcape ſcotfree? Two lamentable examples,<note place="margin">The 5 of Nouember God onely threatned &amp; forewarned by the pow<g ref="char:EOLhyphen"/>der plot: But the 6 paid vs home, &amp; dou<g ref="char:EOLhyphen"/>ble by the death of theſe two Princes: Prince Hen<g ref="char:EOLhyphen"/>ry, and the King of Sweden, A great iud<g ref="char:EOLhyphen"/>gement vpo<g ref="char:cmbAbbrStroke">̄</g> his Church and very re<g ref="char:EOLhyphen"/>markable,</note> (too lamentable indeed:) two good Princes taken away, and that on the ſodaine one af<g ref="char:EOLhyphen"/>ter an other. <hi>The King of Sweden,</hi> the very ſame day of the moneth the <pb n="8" facs="tcp:191563:7"/>6 of Nouember old ſtile that <hi>Prince Henry</hi> died, that hopefull Prince. And <hi>the King of Bohemia</hi> immediatly after: and will God ſpare others? If he doe, and they doe <hi>not, not,</hi> anſwereth the echo, <hi>bring for fruits meet for repentance,</hi> as
+<hi>Iohn Baptiſt</hi> admoniſheth (which God graunt we all may doe) to be preſerued from one iudgement, is but to be reſerued to an other, a far greater, whereof then we ſhall be ſenſible and com<g ref="char:EOLhyphen"/>playne, but too late, and in vaine: as that froward, and ſtubburne heart complaineth:<note n="*" place="margin">
+                  <hi>Pr.</hi> 5.12</note> 
+               <hi>how haue I hated inſtruction, and my heart deſpiſed reprooffe &amp;c?</hi> Our wilfull, froward, and ſtubburne hearts, they can brooke no inſtruction, or reprooffe. Therefore<note n="‡" place="margin">
+                  <hi>Pſ.</hi> 18.26 <hi>Mat.</hi>
+14.4.</note> 
+               <hi>with the wilfull, froward, and ſtubburne, will the Lord ſhew himſelf wllfull, froward, and ſtubburne &amp;c.</hi> as it is in the Pſalme. But indeed they that ſhould inſtruct, admoniſh, and reprooue Kings and Princes &amp; all perſons without reſpects of perſons (as
+<hi>Iohn the Baptiſt did King Herod, it is not lawfull for thee &amp;c.</hi>) our great Biſhops and clergie men, yea and States men too (with reuerence be it ſpoken to the better ſorte, which is alwayes the leaſt, alwayes excepted) they are flatterers, and timeſeruers <hi>(namque hoc tempore obſequium amicos, veritas odium parit) all ſeeke their owne, and none the things of Ie<g ref="char:EOLhyphen"/>ſus Chriſt:</hi>
+               <note place="margin">
+                  <hi>Amos</hi> 6.6</note> as the Apoſtle complaineth. <hi>They are not grieued for the af<g ref="char:EOLhyphen"/>flictions of Ioſeph &amp;c:</hi> As the Prophet alſo complaineth. For the afflicti<g ref="char:EOLhyphen"/>ons of Gods Church, and Saints, both vnder the <hi>Antichriſtian,</hi> and
+<hi>Mahometan</hi> tyranny, daily ſlaine and martyred, <hi>and no man conſidereth in his heart,</hi> Whoſe blood will one daye be required. Let them looke to it whom it concerneth, Kings, Princes, or others: <hi>for to whom much is giuen,</hi>
+               <note place="margin">
+                  <hi>Iſa.</hi> 30.33</note> 
+               <hi>of him much ſhall be required. Tophet is prepared of old, euen for Kings,</hi> if they repent not. They repent not, anſwereth the <hi>echo,</hi> that obey not Gods holy trueth, and Goſpell; who either, offend, or doe not defend the ſame, to the vtmoſt of their power againſt the enemies thereof.<note place="margin">Cicero lib. <hi>1,</hi> Offic.</note> 
+               <hi>Qui non populſat injuriam, qui non defendit nec obſiſtit ſi poteſt in<g ref="char:EOLhyphen"/>juriae</hi> &amp;c. he that doth not protect and defend the innocent, and oppreſ<g ref="char:EOLhyphen"/>ſed, from iuiurie and violence offered, <hi>tam eſt in vitio</hi> (ſaith a heathen man) as if he ſhould forſake his parents, or frends, or countrie. And it was one of their great commandements, <hi>pugna pro Patria:</hi> and is lyke<g ref="char:EOLhyphen"/>wiſe to euery true Chriſtian: <hi>pugna pro Eccleſia; he thou faithfull vnto death</hi> &amp;c.<note place="margin">
+                  <hi>Rev.</hi> 2.10</note> Much more to Chriſtian Princes whom God hath made his Lieutenants, and chieffe-iuſtices here on earth, and giuen that honour to be
+<hi>nurſing-fathers</hi> to his Church, to protect and defend it, againſt al<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <pb facs="tcp:191563:7"/>iniuries and violence whatſoeuer, and againſt all enemies whatſoeuer. To protect (I ſay) and defend the widowes, and fatherles. Now eſpe<g ref="char:EOLhyphen"/>cially thoſe two comfortles <hi>Rachels</hi> the Queens of <hi>Bohemia</hi> and <hi>Sweden,</hi> and their fatherles children: thoſe towardly yong Princes, and all others oppreſſed by that tyrannous, and ambitious houſe of <hi>Auſtria,</hi> &amp; help them to their right. As King <hi>Dauid</hi> admoniſheth:<note place="margin">
+                  <hi>Pſal.</hi> 82.3</note> 
+               <hi>defend the poore and father<g ref="char:EOLhyphen"/>les, doe iuſtice to the afflicted and needie: deliuer the poore and needie: rid them out of the hand of the wicked &amp;c. Be wiſe now therfore O ye Kings:</hi>
+               <note place="margin">
+                  <hi>Pſal.</hi> 2.10</note> 
+               <hi>be in<g ref="char:EOLhyphen"/>ſtructed ye iudges of the earth. Serue the Lord with feare, and reioyce with trembling. Kiſse the ſonne leſt he be angrie, and ye periſh &amp;c. Repent</hi> (as Iohn the Baptiſt lykewiſe admoniſheth) <hi>for the Kingdome of heauen is at hand.</hi>
+               <note place="margin">
+                  <hi>Mat.</hi> 3.2.</note> 
+               <hi>Now is the axe laid to the roote of the trees.</hi> And let vs all repent, euen from the higheſt to the Loweſt, as did the <hi>Niniuites</hi> at the preaching, of
+<hi>Ionas:</hi>
+               <note place="margin">
+                  <hi>Ionah.</hi> 3.4</note> 
+               <hi>yet fortie daies and Nineue ſhall be ouerthrowne.</hi> And mourne, not onely outwardly, but inwardly for our ſins, which indeed are the chieffe cauſe of all theſe diſaſters, which haue fallen vpon our neighbour churches &amp; countries, yea Princes, and great perſonages, and may lykewiſe fall vpon vs, how ſoone we knowe not.<note place="margin">
+                  <hi>Luk.</hi> 13.4</note>
+               <hi>For were they onelie ſinners aboue all others vpon whom the tower in Silo fell, and ſlue them? I tell you nay</hi> (ſaith our Saui<g ref="char:EOLhyphen"/>our) <hi>but except ye repent ye ſhall all likewiſe periſh.</hi>
+               <note place="margin">And yet not to be lamen<g ref="char:EOLhyphen"/>ted, but our ſins &amp; great loſſe thereby as before. 1 <hi>Pet.</hi> 4.7.</note> And was that euer renow<g ref="char:EOLhyphen"/>med, and neuer ſufficiently lamented King of <hi>Sweden,</hi> that died in bat<g ref="char:EOLhyphen"/>taile (as did
+<hi>Joſiah:</hi>) The King of <hi>Bohemia,</hi> that died immediatly after: And that hopefull yong Prince his ſon that was drowned before; ſinners aboue other Kings, and Princes their neighbours? <hi>I tell you nay, but except ye repent, ye ſhall likewiſe periſh.</hi> Two Kings at once ſo ſodainle to be taken away one after another, (the circumſtance of time alſo before mentioned conſidered) wee muſt needs acknowledge the very finger of God, and iudgement of God therein to be admired, and feared of all others. For <hi>when iudgement begineth at the houſe of God</hi> (as now it doth, the houſe of <hi>Sued</hi> for <hi>Sued</hi> is Deus, Gods houſe,)
+<hi>what ſhall be the end of them that obey not the Goſpell of God?</hi> They obey not the Goſpell of God, anſweareth the <hi>eeho</hi> againe, who either, offend, or doe not defend the Goſpell of God, to the vtmoſt of their power: <hi>qui non propulſant iniuriam &amp;c.</hi> Or was the
+<hi>German</hi> nation, or other our Neighbour nations, vpon whom Gods heauy iudgements, of war, and other miſeries are fallen, greater ſinners than we?
+<hi>I tell you nay, but except we repent we ſhall all likewiſe periſh.</hi>
+               <note place="margin">
+                  <hi>Iſa.</hi> 60.12 1. <hi>Sam.</hi> 12
+25.</note> 
+               <hi>Regnum quod non ſervierit Deo peribit: that Kingdome which will not ſerue the Lord <pb facs="tcp:191563:8"/>ſhall periſh:</hi> for the mouth of the Lord hath ſpoken it. <hi>Repent therfore for the Kingdome of heauen is at hand, at hand</hi> anſwereth the echo againe. And ſo I conclude, praying God to forgiue our ſins, which haue cauſed theſe iudgements, and vpon our repentance to raiſe vp Sauiours, and deliue<g ref="char:EOLhyphen"/>rers of his Church (as I hope he will) more and more to his glory, and the finall confuſion of his enemies both open, and ſecret, <hi>Gog and Magog,</hi> now in theſe laſt dayes,<note place="margin">
+                  <hi>Reu.</hi> 20.8</note> before the end of the world very neare ap<g ref="char:EOLhyphen"/>proaching, to be vtterly deſtroyed, vtterly deſtroyed anſwereth the echo againe Amen, Amen.</p>
+            <div type="citations">
+               <head>IHS, IHS, IHS.</head>
+               <p>Help vs to fight this day to the honour of thy name, againſt theſe ene<g ref="char:EOLhyphen"/>mies of thy Church and Kingdome: this <hi>legion of deuils,</hi> deuils incar<g ref="char:EOLhyphen"/>nat,<note place="margin">
+                     <hi>Pſal.</hi> 3.1.</note> for <hi>they are manie: manie,</hi> anſwereth the echo, <hi>that riſe op againſt vs, &amp;c.</hi> Manie and mightie: And open our eyes, the eyes of all thoſe who are to fight thy battels, as thou didſt the eyes of that ſeruant of
+<hi>Eliſha,</hi> at his prayer:<note place="margin">2 <hi>King.</hi> 6
+16.</note> 
+                  <hi>Lord I pray thee open his eyes that he may ſee &amp;c.</hi> That we may ſee <hi>the mountaine full of horſes, and charets of fire round about Eliſha,</hi> and ſay as he did:<note place="margin">1 <hi>Chro.</hi> 32
+7.</note> as did alſo <hi>Hezekiah,</hi> encouraging one an other: <hi>feare not, for they that be with vs are moe than they that be with them. With them,</hi> anſwereth an echo from heauen, <hi>is an arme of fleſh, but with vs the Lord our God, to help vs, and to fight our battels.</hi> And <hi>if God be with vs who can be againſt vs?</hi> And O Lord our God, ſhew a difference betwixt vs and them, as thou didſt betwixt thyne owne people the
+<hi>Jſraelites</hi> and the <hi>E<g ref="char:EOLhyphen"/>gyptians:</hi> and ſay to vs, as thou didſt to thyne owne people by thy ſer<g ref="char:EOLhyphen"/>uant <hi>Moſes: Eeare ye not, ſtand ſtill and ſee the ſaluation of the Lord which he will ſhew to you this day:</hi>
+                  <note place="margin">
+                     <hi>Exod.</hi> 14.13.</note> 
+                  <hi>for the Egyptians whom ye haue ſeene this day, yee ſhall ſee them againe no more for euer. The Lord ſhall fight for you hold you your peace.</hi> And O Lord open the eyes of all Chriſtian Princes, &amp; States, more and more, to ſee and deteſt, the nakednes, and filthines of that menſtruous,<note place="margin">
+                     <hi>Rev.</hi> 17.2</note> and monſtrous <hi>whore of Babilon, with whom the Kings of <pb n="11" facs="tcp:191563:8"/>the
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> haue committed fornication &amp;c.</hi> ſpirituall fornication: and <hi>put in<g ref="char:EOLhyphen"/>to their hearts with one conſent to fulfill thy will, to hate the whore, make her deſolate and naked, to eate her fleſh, and burne her with fire:</hi> and daſh her chil<g ref="char:EOLhyphen"/>dren againſt the ſtones. <hi>O daughter of Babilon who art to be deſtroyed,</hi>
+                  <note place="margin">
+                     <hi>Pſal.</hi> 137.8.</note> 
+                  <hi>happie ſhall he be that rewardeth thee as thou haſt ſerued vs: happie ſhall he be that taketh, and daſheth thy little ones, againſt the ſtones:</hi> both the open, and ſecret enemies before mentioned. Amen, Amen.</p>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:191563:9"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
